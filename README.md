@@ -43,6 +43,3 @@ Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente e
 
 El modelo reconstruye perfiles de resistividad precisos, incluso en presencia de ruido, y captura interfaces geológicas que los métodos clásicos tienden a suavizar o perder. El enfoque demuestra mayor precisión y resolución en comparación con IPI2Win y Pygimli.
 
-## 📄 Licencia
-
-Este código está disponible bajo la Licencia MIT.
