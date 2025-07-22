@@ -4,12 +4,6 @@ Este repositorio contiene la implementación de un enfoque de **aprendizaje prof
 
 El método combina una red neuronal totalmente conectada con un **operador directo diferenciable**, basado en las ecuaciones físicas del problema (ley de Ohm y ecuación de Poisson), lo cual permite estimar perfiles de resistividad directamente desde los datos observados **sin necesidad de modelos etiquetados**.
 
-## 🎯 Objetivo
-
-- Estimar modelos de resistividad subterránea en 1D usando solo datos de resistividad aparente.
-- Incorporar conocimiento físico en el entrenamiento de redes neuronales.
-- Superar métodos tradicionales como IPI2Win o Pygimli en escenarios sintéticos y reales.
-
 ## 📒 Contenido
 
 Este repositorio incluye un único notebook desarrollado para ser ejecutado en Google Colab:
