@@ -12,7 +12,7 @@ Este repositorio incluye un único notebook desarrollado para ser ejecutado en G
 
 Este notebook contiene:
 
-- Generación o carga de datos de resistividad aparente (sintéticos o reales).
+- Generación o carga de datos de resistividad aparente (sintéticos).
 - Definición del modelo neuronal en TensorFlow.
 - Implementación del operador directo diferenciable.
 - Función de pérdida basada en la física.
