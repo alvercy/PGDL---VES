@@ -19,12 +19,6 @@ Este notebook contiene:
 - Entrenamiento no supervisado del modelo.
 - Visualización e interpretación de resultados.
 
-## 🚀 Ejecución en Colab
-
-Haz clic en el siguiente botón para abrir y ejecutar el notebook directamente en Google Colab:
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/notebooks/PGDL_inversion_SEV_1D.ipynb)
-
 ## ⚙️ Requisitos
 
 - TensorFlow ≥ 2.x  
