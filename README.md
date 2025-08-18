@@ -29,5 +29,5 @@ Este notebook contiene:
 
 ## 📈 Resultados
 
-El modelo reconstruye perfiles de resistividad precisos, incluso en presencia de ruido, y captura interfaces geológicas que los métodos clásicos tienden a suavizar o perder. El enfoque demuestra mayor precisión y resolución en comparación con IPI2Win y Pygimli.
+El modelo reconstruye perfiles de resistividad precisos, incluso en presencia de ruido, y captura interfaces geológicas que los métodos clásicos tienden a suavizar o perder. El enfoque demuestra mayor precisión y resolución en comparación con IPI2win y pyGIMLi.
 
